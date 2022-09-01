@@ -1,1 +1,3 @@
-# restaurant-
+# restaurant
+
+Restaurant Managment System
